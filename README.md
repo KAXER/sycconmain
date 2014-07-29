@@ -28,17 +28,17 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
-**
-### My first repository from Command line ###
+
+### My first repository from Command line!! ###
 **I'm starting from scratch**
 **Set up your local directory**
 
- *Set up Git on your machine if you haven't already:*
+*Set up Git on your machine if you haven't already:*
 
 1. $mkdir /path/to/your/project 
 2. $cd /path/to/your/project 
 3. $git init
-4. $git remote add origin https://KAXER@bitbucket.org/KAXER/sycconindex.git
+4. $git remote add origin git@github.com:KAXER/sycconmain.git
 
 ###  Create your first file, commit, and push: ###
 
@@ -51,6 +51,6 @@ This README would normally document whatever steps are necessary to get your app
 ** Already have a Git repository on your computer? Let's push it up to github:**
 
 1. $cd /path/to/my/repo 
-2. $git remote add origin https://KAXER@bitbucket.org/KAXER/sycconindex.git
+2. $git remote add origin git@github.com:KAXER/sycconmain.git
 3. $git push -u origin --all # pushes up the repo and its refs for the first time 
 4. $git push -u origin --tags # pushes up any tags
