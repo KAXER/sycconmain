@@ -43,7 +43,7 @@ This README would normally document whatever steps are necessary to get your app
 ###  Create your first file, commit, and push: ###
 
 1. $echo "Carlos Medrano" >> contributors.txt 
-2. g$it add contributors.txt 
+2. $git add contributors.txt 
 3. $git commit -m 'Initial commit with contributors' 
 4. $git push -u origin master 
 
